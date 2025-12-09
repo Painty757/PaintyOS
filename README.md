@@ -16,7 +16,8 @@ Wave 1 of Icons is now realased which includes
 - PS1
 - PS2
 - PSP
-More will be avalible in the future (Thumbnails for dual screen devices releasing very soon so keep an eye out 👀)
+- All the icons on Wave 1 will now also have a bottom screen image which is avalible to download right now :) (check the relases page)
+(Wave 2 will begin development and will release January 2026)
 
 ## Hiring
 
